@@ -1,0 +1,23 @@
+label{
+    width: 250px;
+    display: inline-block;
+}
+#form{
+    padding: 4px;
+    border-radius: 10px;
+}
+#Fname{
+    padding-right: 80px;
+}
+#email{
+    padding-right: 80px;
+}
+#nationality{
+    padding-right: 30px;
+}
+#submit{
+    width: 60px;
+}
+#reset{
+    width: 60px;
+}
